@@ -1,0 +1,54 @@
+
+body {
+
+  margin: 0;
+}
+
+
+.octocat {
+display:inline-block;
+}
+
+.octocat img {
+  width: 300px;
+  border: 1px solid #e5e5e5;
+  margin: 40px;
+  border-radius: 3px;
+
+}
+
+
+
+.authors img {
+display: inline-block;
+  width: 30px;
+  height: 30px;
+  float:right;
+  margin: -20px 55px 0px -50px;
+
+
+}
+
+.image-caption{
+
+  margin: -38px -10px 0px 131px;
+}
+
+.image-number {
+  float: left;
+  margin: 0 0 0 46px;
+}
+
+.image-caption a {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+  font-size: 14px;
+
+}
+
+span {
+  color: #e5e5e5;
+  font-size: 14px;
+
+}
